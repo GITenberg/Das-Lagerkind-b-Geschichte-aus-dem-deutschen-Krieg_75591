@@ -1,0 +1,37 @@
+_repo: Das-Lagerkind-b-Geschichte-aus-dem-deutschen-Krieg_75591
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schrödter, H.
+    aliases:
+    - Schrodter, H.
+    - Schroedter, Hans
+    birthdate: 1872
+    deathdate: 1957
+    gutenberg_agent_id: '52891'
+    url: http://www.gutenberg.org/2009/agents/52891
+creator:
+  author:
+    agent_name: Niese, Charlotte
+    birthdate: 1854
+    deathdate: 1935
+    gutenberg_agent_id: '25762'
+    url: http://www.gutenberg.org/2009/agents/25762
+description: ''
+gutenberg_issued: '2025-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75591'
+language: de
+pgterms:marc905: 20230128100144niese
+pgterms:marc906: '1914'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aMainz :$bVerlag von Jos. Scholz, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Das Lagerkind : $b Geschichte aus dem deutschen Krieg'
+url: http://www.gutenberg.org/ebooks/75591
